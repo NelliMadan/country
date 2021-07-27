@@ -1,0 +1,20 @@
+.search{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.searchCountry{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+.countryDisplay{
+    text-align: left;
+}
+p{
+    font-size: 30px;
+    color: #2a6f97;
+}
+h1{
+    color: #255a79;
+}
